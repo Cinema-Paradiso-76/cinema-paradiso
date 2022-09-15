@@ -1,7 +1,7 @@
 # Cinema Paradiso
 
 ```
-App, built using frontend React+Redux and backend using Django 
+Cinema Paradiso, built using frontend React+Redux and backend using Django 
 ```
 
 ## Description
